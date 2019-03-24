@@ -11,7 +11,11 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'vegan-ideas'
 ```
+<<<<<<< HEAD
 apple 
+=======
+
+>>>>>>> d52e1f1faa00315dd367d1e255fe6030105e6a87
 And then execute:
 
     $ bundle
